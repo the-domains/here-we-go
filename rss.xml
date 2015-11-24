@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Here we go]]></title>
+        <description><![CDATA[Here we go]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 24 Nov 2015 15:16:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OLD TECHNOLOGY IS COOL]]></title>
+            <description><![CDATA[<article><h1>OLD TECHNOLOGY IS COOL</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9cc33b94-bb0c-4370-babb-80517531ae2a.jpg"></article>]]></description>
+            <link>undefinedold-technology-is-cool/index.html</link>
+            <guid isPermaLink="false">54ab2870-a0d0-437f-ac4a-12a3be258a13</guid>
+            <pubDate>Tue, 24 Nov 2015 15:16:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
