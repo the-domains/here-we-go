@@ -1,6 +1,6 @@
 name: Here we go
 favicon: null
-layout_spectrum: 0.07047695340588689
+layout_spectrum: 0.73527
 typography_spectrum: 0.8448942753020674
 title: Where does site title go
 cta:
@@ -23,7 +23,7 @@ color:
     - '#5C6B73'
     - '#253237'
   brandStrength: 0.5372724742628634
-  lightness: 0.35670280177146196
-  saturation: 0.8497122859116644
+  lightness: 0.5625
+  saturation: 0.8125
   rhythmicContrast: 0.7950982318725437
 purpose: []
