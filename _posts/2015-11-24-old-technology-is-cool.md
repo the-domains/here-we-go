@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-24T17:04:44.728Z'
-dateModified: '2015-11-24T17:04:40.304Z'
+datePublished: '2015-11-24T17:08:15.856Z'
+dateModified: '2015-11-24T17:08:11.128Z'
 title: OLD TECHNOLOGY IS COOL
 author: []
 sourcePath: _posts/2015-11-24-old-technology-is-cool.md
