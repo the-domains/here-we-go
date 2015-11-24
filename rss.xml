@@ -4,13 +4,20 @@
         <description><![CDATA[Here we go]]></description>
         <link>https://thegrid.ai/here-we-go/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 15:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2015 15:17:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/here-we-go/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Me]]></title>
             <description><![CDATA[<article><h1>Me</h1><p>Added metadata description</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b22e99cc-0687-43cf-a9f4-462a2e3a0297.jpg"></article>]]></description>
             <link>https://thegrid.ai/here-we-go/me/index.html</link>
             <guid isPermaLink="false">1a088d3e-5b29-4564-8121-85e1e2876e12</guid>
+            <pubDate>Tue, 24 Nov 2015 15:16:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/408998ce-f92b-4e23-8f22-7d5dd042cc44.jpg">]]></description>
+            <link>https://thegrid.ai/here-we-go/only-description-added-and-copy-on-page/index.html</link>
+            <guid isPermaLink="false">054020d9-49b1-4688-89aa-f78b083e663b</guid>
             <pubDate>Tue, 24 Nov 2015 15:16:36 GMT</pubDate>
         </item>
         <item>
