@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Only description added (and copy on page)
-datePublished: '2015-11-24T15:16:36.415Z'
-dateModified: '2015-11-24T15:16:13.677Z'
-title: ''
+datePublished: '2015-11-24T17:02:01.496Z'
+dateModified: '2015-11-24T17:01:56.356Z'
+title: Buks as Title
 author: []
+sourcePath: _posts/2015-11-24-only-description-added-and-copy-on-page.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-24-only-description-added-and-copy-on-page.md
-published: true
 url: only-description-added-and-copy-on-page/index.html
 _type: Article
 
