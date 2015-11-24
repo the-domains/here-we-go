@@ -2,6 +2,7 @@ name: Here we go
 favicon: null
 layout_spectrum: 0.07047695340588689
 typography_spectrum: 0.8448942753020674
+title: Where does site title go
 cta:
   domain: null
   bucket: null
