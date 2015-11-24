@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: Only description added (and copy on page)
-datePublished: '2015-11-24T17:02:01.496Z'
-dateModified: '2015-11-24T17:01:56.356Z'
+datePublished: '2015-11-24T17:08:41.193Z'
+dateModified: '2015-11-24T17:08:37.954Z'
 title: Buks as Title
 author: []
 sourcePath: _posts/2015-11-24-only-description-added-and-copy-on-page.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: only-description-added-and-copy-on-page/index.html
-_type: Article
+_type: Blurb
 
 ---
 What about Duck's
